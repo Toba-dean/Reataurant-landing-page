@@ -1,4 +1,4 @@
-/* .app__chef-content {
+.app__chef-content {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -16,6 +16,10 @@
     width: 47px;
     height: 40px;
     margin: 0 1rem 1rem 0;
+}
+
+span {
+    color: var(--color-golden);
 }
 
 .app__chef-sign {
@@ -48,4 +52,4 @@
     .app__chef-sign img {
         width: 80%;
     }
-} */
+}

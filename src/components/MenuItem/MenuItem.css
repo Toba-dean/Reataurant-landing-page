@@ -1,4 +1,4 @@
-/* .app__menuitem {
+.app__menuitem {
     width: 100%;
     margin: 1rem 0;
 
@@ -32,4 +32,4 @@
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-} */
+}

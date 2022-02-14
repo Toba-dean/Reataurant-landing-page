@@ -16,14 +16,14 @@ app__header-img img {
     width: 80%;
 }
 
-/*@media screen and (min-width: 2000px) {
+@media screen and (min-width: 2000px) {
     .app__header-h1 {
-        font-size: 180px;
+        font-size: 180px; 
         line-height: 210px;
     }
 }
 
-/*@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1150px) {
     .app__header-h1 {
         font-size: 90px;
     }
@@ -41,4 +41,4 @@ app__header-img img {
         font-size: 50px;
         line-height: 70px;
     }
-} */
+}

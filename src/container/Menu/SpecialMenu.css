@@ -1,4 +1,4 @@
-/* .app__specialMenu {
+.app__specialMenu {
     flex-direction: column;
     background: var(--color-black);
 }
@@ -83,4 +83,4 @@
         font-size: 35px;
         line-height: 48.5px;
     }
-} */
+}
