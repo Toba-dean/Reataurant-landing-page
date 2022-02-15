@@ -1,4 +1,4 @@
-/* .app__gallery {
+.app__gallery {
     flex-direction: row;
 
     background: var(--color-black);
@@ -142,4 +142,4 @@
         min-width: 240px;
         height: 320px;
     }
-} */
+}

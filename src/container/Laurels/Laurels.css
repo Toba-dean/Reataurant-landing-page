@@ -1,4 +1,4 @@
-/* .app__laurels_awards {
+.app__laurels_awards {
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -39,4 +39,4 @@
         min-width: 100%;
         margin: 1rem 0;
     }
-} */
+}

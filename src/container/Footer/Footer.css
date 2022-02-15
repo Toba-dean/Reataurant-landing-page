@@ -1,4 +1,4 @@
-/* .app__footer {
+.app__footer {
     width: 100%;
     position: relative;
     z-index: 1;
@@ -64,7 +64,7 @@
     font-size: 32px;
     line-height: 41.6px;
     margin-bottom: 1rem;
-}
+} 
 
 .footer__copyright {
     margin-top: 3rem;
@@ -94,7 +94,7 @@
 
 @media screen and (max-width: 650px) {
     .app__footer {
-        padding: 0 0 2rem 0;
+        padding: 0 2rem 0;
     }
 }
 
@@ -102,4 +102,4 @@
     .app__footer-links_logo img:first-child {
         width: 80%;
     }
-} */
+}
