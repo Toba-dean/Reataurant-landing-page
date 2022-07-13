@@ -13,6 +13,7 @@ const Navbar = () => {
 
   return (
     <nav className="app__navbar">
+      
       <div className="app__navbar-logo">
         <img src={images.gericht} alt="app__logo" />
       </div>
@@ -28,6 +29,8 @@ const Navbar = () => {
         <div />
         <a href="/" className="p__opensans">Book Table</a>
       </div>
+
+      {/* Mobile Menu */}
       <div className="app__navbar-smallscreen">
         <GiHamburgerMenu color="#fff" fontSize={27} onClick={() => setToggleMenu(true)} className='ham' />
         {
@@ -41,7 +44,7 @@ const Navbar = () => {
                 <li className="p__opensans"><a href="#awards">Awards</a></li>
                 <li className="p__opensans"><a href="#contact">Contact</a></li>
               </ul>
-          </div>
+            </div>
           )
         }
       </div>
